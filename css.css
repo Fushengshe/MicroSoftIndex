@@ -1,0 +1,32 @@
+@charset "utf-8";
+#contain{width:1280px;height:2800px}
+#header{width:1280px;height:50px}
+#hl{width:600px;height:50px;float:left}
+.logo{width:300px;float:left}
+#three{font-size:24px}
+#store{width:80px;float:left}
+#products{width:80px;float:left}
+#prove{width:80px;float:left}
+#hr{width:600px;height:50px;float:left}
+#search{vertical-align: middle;float:left}
+.login{float:left}
+#body{width:1280px;height:1900px}
+#top{width:1280px;height:400px}
+#windows{width:320px;height:400px;float:left}
+#xbox{width:320px;height:400px;float:left}
+#hello{width:320px;height:400px;float:left}
+#events{width:320px;height:400px;float:left}
+#middle{width:1280px;height:500px;float:left}
+#office{width:320px;height:400px;float:left}
+#win{width:320px;height:400px;float:left}
+#holo{width:320px;height:400px;float:left}
+#azure{width:320px;height:400px;float:left}
+#bottom{width:1280px;height:450px;float:left}
+#footer{width:1280px;height:500px}
+.atten{float:left}
+.study{width:210px;height:300px;float:left}
+.dvice{width:210px;height:300px;float:left}
+.country{width:210px;height:300px;float:left}
+.download{width:210px;height:300px;float:left}
+.value{width:210px;height:300px;float:left}
+.company{width:210px;height:300px;float:left}
